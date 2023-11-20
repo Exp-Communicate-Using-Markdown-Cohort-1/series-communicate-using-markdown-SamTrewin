@@ -13,7 +13,14 @@
 
 ---
 #### Step 3 - Adding Code
+(Ensure to use backticks (tilde button)
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+---
+#### Step 4 - Add a Task List
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline My Portfolio
+- [ ] Introduce Myself to the World
